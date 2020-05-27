@@ -1,0 +1,6 @@
+C:\Users\elregent\Desktop\edu_games\level1\hw_list\01_LessonIntroduction\TaskDistance\bin\Debug\TaskDistance.exe.config
+C:\Users\elregent\Desktop\edu_games\level1\hw_list\01_LessonIntroduction\TaskDistance\bin\Debug\TaskDistance.exe
+C:\Users\elregent\Desktop\edu_games\level1\hw_list\01_LessonIntroduction\TaskDistance\bin\Debug\TaskDistance.pdb
+C:\Users\elregent\Desktop\edu_games\level1\hw_list\01_LessonIntroduction\TaskDistance\obj\Debug\TaskDistance.csproj.CoreCompileInputs.cache
+C:\Users\elregent\Desktop\edu_games\level1\hw_list\01_LessonIntroduction\TaskDistance\obj\Debug\TaskDistance.exe
+C:\Users\elregent\Desktop\edu_games\level1\hw_list\01_LessonIntroduction\TaskDistance\obj\Debug\TaskDistance.pdb

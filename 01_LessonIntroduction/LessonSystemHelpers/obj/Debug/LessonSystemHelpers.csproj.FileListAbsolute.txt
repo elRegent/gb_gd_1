@@ -1,0 +1,2 @@
+C:\Users\elregent\Desktop\edu_games\level1\hw_list\01_LessonIntroduction\LessonSystemHelpers\obj\Debug\LessonSystemHelpers.csprojAssemblyReference.cache
+C:\Users\elregent\Desktop\edu_games\level1\hw_list\01_LessonIntroduction\LessonSystemHelpers\obj\Debug\LessonSystemHelpers.csproj.CoreCompileInputs.cache

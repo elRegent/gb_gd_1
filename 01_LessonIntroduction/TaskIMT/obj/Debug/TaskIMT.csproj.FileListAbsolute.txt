@@ -1,0 +1,7 @@
+C:\Users\elregent\Desktop\edu_games\level1\hw_list\01_LessonIntroduction\TaskIMT\bin\Debug\TaskIMT.exe.config
+C:\Users\elregent\Desktop\edu_games\level1\hw_list\01_LessonIntroduction\TaskIMT\bin\Debug\TaskIMT.exe
+C:\Users\elregent\Desktop\edu_games\level1\hw_list\01_LessonIntroduction\TaskIMT\bin\Debug\TaskIMT.pdb
+C:\Users\elregent\Desktop\edu_games\level1\hw_list\01_LessonIntroduction\TaskIMT\obj\Debug\TaskIMT.csprojAssemblyReference.cache
+C:\Users\elregent\Desktop\edu_games\level1\hw_list\01_LessonIntroduction\TaskIMT\obj\Debug\TaskIMT.csproj.CoreCompileInputs.cache
+C:\Users\elregent\Desktop\edu_games\level1\hw_list\01_LessonIntroduction\TaskIMT\obj\Debug\TaskIMT.exe
+C:\Users\elregent\Desktop\edu_games\level1\hw_list\01_LessonIntroduction\TaskIMT\obj\Debug\TaskIMT.pdb

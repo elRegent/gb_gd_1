@@ -1,0 +1,7 @@
+C:\Users\elregent\Desktop\edu_games\level1\hw_list\01_LessonIntroduction\1TaskProfile\obj\Debug\TaskProfile.csprojAssemblyReference.cache
+C:\Users\elregent\Desktop\edu_games\level1\hw_list\01_LessonIntroduction\1TaskProfile\obj\Debug\TaskProfile.csproj.CoreCompileInputs.cache
+C:\Users\elregent\Desktop\edu_games\level1\hw_list\01_LessonIntroduction\1TaskProfile\bin\Debug\TaskProfile.exe.config
+C:\Users\elregent\Desktop\edu_games\level1\hw_list\01_LessonIntroduction\1TaskProfile\bin\Debug\TaskProfile.exe
+C:\Users\elregent\Desktop\edu_games\level1\hw_list\01_LessonIntroduction\1TaskProfile\bin\Debug\TaskProfile.pdb
+C:\Users\elregent\Desktop\edu_games\level1\hw_list\01_LessonIntroduction\1TaskProfile\obj\Debug\TaskProfile.exe
+C:\Users\elregent\Desktop\edu_games\level1\hw_list\01_LessonIntroduction\1TaskProfile\obj\Debug\TaskProfile.pdb
