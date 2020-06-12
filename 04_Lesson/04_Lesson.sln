@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairsOneDelim", "PairsOneDelim\PairsOneDelim.csproj", "{FA221D4B-4AB2-4ECE-B18B-CD89F288DD85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoDimensArr", "TwoDimensArr\TwoDimensArr.csproj", "{FEBE3590-6967-4251-A213-903A6EC1327D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA221D4B-4AB2-4ECE-B18B-CD89F288DD85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA221D4B-4AB2-4ECE-B18B-CD89F288DD85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA221D4B-4AB2-4ECE-B18B-CD89F288DD85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA221D4B-4AB2-4ECE-B18B-CD89F288DD85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEBE3590-6967-4251-A213-903A6EC1327D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEBE3590-6967-4251-A213-903A6EC1327D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEBE3590-6967-4251-A213-903A6EC1327D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEBE3590-6967-4251-A213-903A6EC1327D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {549A7270-BD5E-4A38-939C-77051C9EBF4F}
+	EndGlobalSection
+EndGlobal
